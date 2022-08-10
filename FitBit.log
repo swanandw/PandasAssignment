@@ -1,0 +1,546 @@
+2022-08-02 17:18:05,653 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 17:33:16,975 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 17:33:16,981 INFO root Data is fetched successfully from csv file 
+2022-08-02 17:33:16,981 INFO root Convert a data from csv into json format
+2022-08-02 17:33:16,982 INFO root Data Converted into Json format successfully
+2022-08-02 17:33:16,982 INFO root Inser json data into mongo db 
+2022-08-02 17:33:16,982 INFO root Make a connection with MongoDB
+2022-08-02 17:33:16,989 INFO root Create a new database here
+2022-08-02 17:33:16,989 INFO root Data not inserted successfully into a collection
+2022-08-02 17:33:16,989 INFO root Second step is to make connection to MySQl database
+2022-08-02 17:33:16,989 INFO root Making a connection with MySql database
+2022-08-02 17:33:17,008 INFO root Create a table Fitbitdata
+2022-08-02 17:33:17,008 INFO root Creating a new table Fitbitdata
+2022-08-02 17:33:17,008 INFO root Select all rows from FitBitdata table
+2022-08-02 17:33:17,008 INFO root Execute the query
+2022-08-02 17:39:26,638 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 17:39:26,641 INFO root Data is fetched successfully from csv file 
+2022-08-02 17:39:26,641 INFO root Convert a data from csv into json format
+2022-08-02 17:39:26,645 INFO root Data Converted into Json format successfully
+2022-08-02 17:39:26,645 INFO root Inser json data into mongo db 
+2022-08-02 17:39:26,645 INFO root Make a connection with MongoDB
+2022-08-02 17:39:27,876 INFO root Connection is successfully established
+2022-08-02 17:39:27,876 INFO root Create a new database here
+2022-08-02 17:39:27,876 INFO root database  created 
+2022-08-02 17:39:27,876 INFO root Create a new collection
+2022-08-02 17:39:27,876 INFO root new collection  created 
+2022-08-02 17:39:27,876 INFO root Insert json data into collection
+2022-08-02 17:39:27,876 INFO root Data not inserted successfully into a collection
+2022-08-02 17:39:27,876 INFO root Second step is to make connection to MySQl database
+2022-08-02 17:39:27,876 INFO root Making a connection with MySql database
+2022-08-02 17:39:27,879 INFO root Create a table Fitbitdata
+2022-08-02 17:39:27,879 INFO root Creating a new table Fitbitdata
+2022-08-02 17:39:27,879 INFO root Select all rows from FitBitdata table
+2022-08-02 17:39:27,879 INFO root Execute the query
+2022-08-02 17:47:09,329 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 17:47:09,334 INFO root Data is fetched successfully from csv file 
+2022-08-02 17:47:09,334 INFO root Convert a data from csv into json format
+2022-08-02 17:47:09,340 INFO root Data Converted into Json format successfully
+2022-08-02 17:47:09,340 INFO root Insert json data into mongo db 
+2022-08-02 17:47:09,340 INFO root Make a connection with MongoDB
+2022-08-02 17:47:15,533 INFO root Connection is successfully established
+2022-08-02 17:47:15,533 INFO root Create a new database here
+2022-08-02 17:47:15,533 INFO root database  created 
+2022-08-02 17:47:15,533 INFO root Create a new collection
+2022-08-02 17:47:15,533 INFO root new collection  created 
+2022-08-02 17:47:15,533 INFO root Insert json data into collection
+2022-08-02 17:47:15,533 INFO root Data not inserted successfully into a collection
+2022-08-02 17:47:15,533 INFO root Second step is to make connection to MySQl database
+2022-08-02 17:47:15,533 INFO root Making a connection with MySql database
+2022-08-02 17:47:15,558 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 17:47:15,558 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 17:47:15,558 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 17:47:15,558 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 17:47:15,558 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 17:47:15,558 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 17:47:15,559 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 17:47:15,559 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 17:47:15,562 INFO root Create a table Fitbitdata
+2022-08-02 17:47:15,563 INFO root Creating a new table Fitbitdata
+2022-08-02 17:47:15,587 INFO root table created
+2022-08-02 17:47:15,594 INFO root Select all rows from FitBitdata table
+2022-08-02 17:47:15,594 INFO root Execute the query
+2022-08-02 17:47:15,595 INFO root query Executed successfully
+2022-08-02 17:47:15,595 INFO root select all the rows 
+2022-08-02 17:47:15,595 INFO root All rows being selected
+2022-08-02 17:47:15,595 INFO root Print all the rows
+2022-08-02 17:47:15,595 INFO root all rows are printed
+2022-08-02 17:57:23,142 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 17:57:23,147 INFO root Data is fetched successfully from csv file 
+2022-08-02 17:57:23,147 INFO root Convert a data from csv into json format
+2022-08-02 17:57:23,150 INFO root Data Converted into Json format successfully
+2022-08-02 17:57:23,150 INFO root Insert json data into mongo db 
+2022-08-02 17:57:23,150 INFO root Make a connection with MongoDB
+2022-08-02 17:57:24,524 INFO root Connection is successfully established
+2022-08-02 17:57:24,524 INFO root Create a new database here
+2022-08-02 17:57:24,524 INFO root database  created 
+2022-08-02 17:57:24,525 INFO root Create a new collection
+2022-08-02 17:57:24,525 INFO root new collection  created 
+2022-08-02 17:57:24,525 INFO root Insert json data into collection
+2022-08-02 17:57:24,525 INFO root Data not inserted successfully into a collection
+2022-08-02 17:57:24,525 INFO root Second step is to make connection to MySQl database
+2022-08-02 17:57:24,525 INFO root Making a connection with MySql database
+2022-08-02 17:57:24,548 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 17:57:24,548 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 17:57:24,548 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 17:57:24,548 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 17:57:24,548 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 17:57:24,548 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 17:57:24,550 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 17:57:24,550 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 17:57:24,551 INFO root Create a table Fitbitdata
+2022-08-02 17:57:24,551 INFO root Creating a new table Fitbitdata
+2022-08-02 17:57:24,559 INFO root table created
+2022-08-02 17:57:24,560 INFO root Select all rows from FitBitdata table
+2022-08-02 17:57:24,560 INFO root Execute the query
+2022-08-02 17:57:24,561 INFO root query Executed successfully
+2022-08-02 17:57:24,561 INFO root select all the rows 
+2022-08-02 17:57:24,561 INFO root All rows being selected
+2022-08-02 17:57:24,561 INFO root Print all the rows
+2022-08-02 17:57:24,561 INFO root all rows are printed
+2022-08-02 18:08:55,763 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 18:08:55,767 INFO root Data is fetched successfully from csv file 
+2022-08-02 18:08:55,767 INFO root Convert a data from csv into json format
+2022-08-02 18:08:55,770 INFO root Data Converted into Json format successfully
+2022-08-02 18:08:55,770 INFO root Insert json data into mongo db 
+2022-08-02 18:08:55,770 INFO root Make a connection with MongoDB
+2022-08-02 18:08:57,547 INFO root Connection is successfully established
+2022-08-02 18:08:57,547 INFO root Create a new database here
+2022-08-02 18:08:57,548 INFO root database  created 
+2022-08-02 18:08:57,548 INFO root Create a new collection
+2022-08-02 18:08:57,548 INFO root new collection  created 
+2022-08-02 18:08:57,548 INFO root Insert json data into collection
+2022-08-02 18:08:57,548 INFO root Data not inserted successfully into a collection
+2022-08-02 18:08:57,548 INFO root Second step is to make connection to MySQl database
+2022-08-02 18:08:57,548 INFO root Making a connection with MySql database
+2022-08-02 18:08:57,573 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:08:57,573 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 18:08:57,573 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:08:57,573 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 18:08:57,573 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 18:08:57,573 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 18:08:57,576 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 18:08:57,577 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 18:08:57,578 INFO root Create a table Fitbitdata
+2022-08-02 18:08:57,578 INFO root Creating a new table Fitbitdata
+2022-08-02 18:08:57,578 INFO root Select all rows from FitBitdata table
+2022-08-02 18:08:57,579 INFO root Execute the query
+2022-08-02 18:08:57,579 INFO root query Executed successfully
+2022-08-02 18:08:57,579 INFO root select all the rows 
+2022-08-02 18:08:57,579 INFO root All rows being selected
+2022-08-02 18:08:57,579 INFO root Print all the rows
+2022-08-02 18:08:57,579 INFO root all rows are printed
+2022-08-02 18:09:10,983 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 18:09:10,986 INFO root Data is fetched successfully from csv file 
+2022-08-02 18:09:10,987 INFO root Convert a data from csv into json format
+2022-08-02 18:09:10,993 INFO root Data Converted into Json format successfully
+2022-08-02 18:09:10,993 INFO root Insert json data into mongo db 
+2022-08-02 18:09:10,993 INFO root Make a connection with MongoDB
+2022-08-02 18:09:12,530 INFO root Connection is successfully established
+2022-08-02 18:09:12,531 INFO root Create a new database here
+2022-08-02 18:09:12,531 INFO root database  created 
+2022-08-02 18:09:12,531 INFO root Create a new collection
+2022-08-02 18:09:12,531 INFO root new collection  created 
+2022-08-02 18:09:12,531 INFO root Insert json data into collection
+2022-08-02 18:09:12,531 INFO root Data not inserted successfully into a collection
+2022-08-02 18:09:12,531 INFO root Second step is to make connection to MySQl database
+2022-08-02 18:09:12,531 INFO root Making a connection with MySql database
+2022-08-02 18:09:12,558 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:09:12,558 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 18:09:12,558 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:09:12,559 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 18:09:12,559 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 18:09:12,559 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 18:09:12,559 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 18:09:12,559 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 18:09:12,561 INFO root Create a table Fitbitdata
+2022-08-02 18:09:12,561 INFO root Creating a new table Fitbitdata
+2022-08-02 18:09:12,568 INFO root table created
+2022-08-02 18:09:12,569 INFO root Select all rows from FitBitdata table
+2022-08-02 18:09:12,569 INFO root Execute the query
+2022-08-02 18:09:12,570 INFO root query Executed successfully
+2022-08-02 18:09:12,570 INFO root select all the rows 
+2022-08-02 18:09:12,570 INFO root All rows being selected
+2022-08-02 18:09:12,570 INFO root Print all the rows
+2022-08-02 18:09:12,570 INFO root all rows are printed
+2022-08-02 18:10:06,172 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 18:10:06,177 INFO root Data is fetched successfully from csv file 
+2022-08-02 18:10:06,177 INFO root Convert a data from csv into json format
+2022-08-02 18:10:06,179 INFO root Data Converted into Json format successfully
+2022-08-02 18:10:06,179 INFO root Insert json data into mongo db 
+2022-08-02 18:10:06,179 INFO root Make a connection with MongoDB
+2022-08-02 18:10:07,531 INFO root Connection is successfully established
+2022-08-02 18:10:07,531 INFO root Create a new database here
+2022-08-02 18:10:07,531 INFO root database  created 
+2022-08-02 18:10:07,532 INFO root Create a new collection
+2022-08-02 18:10:07,532 INFO root new collection  created 
+2022-08-02 18:10:07,532 INFO root Insert json data into collection
+2022-08-02 18:10:07,532 INFO root Data not inserted successfully into a collection
+2022-08-02 18:10:07,532 INFO root Second step is to make connection to MySQl database
+2022-08-02 18:10:07,532 INFO root Making a connection with MySql database
+2022-08-02 18:10:07,557 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:10:07,557 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 18:10:07,557 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:10:07,557 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 18:10:07,558 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 18:10:07,558 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 18:10:07,559 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 18:10:07,559 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 18:10:07,560 INFO root Create a table Fitbitdata
+2022-08-02 18:10:07,560 INFO root Creating a new table Fitbitdata
+2022-08-02 18:10:07,567 INFO root table created
+2022-08-02 18:10:07,568 INFO root Select all rows from FitBitdata table
+2022-08-02 18:10:07,568 INFO root Execute the query
+2022-08-02 18:10:07,568 INFO root query Executed successfully
+2022-08-02 18:10:07,568 INFO root select all the rows 
+2022-08-02 18:10:07,568 INFO root All rows being selected
+2022-08-02 18:10:07,568 INFO root Print all the rows
+2022-08-02 18:10:07,568 INFO root all rows are printed
+2022-08-02 18:17:31,825 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 18:17:31,828 INFO root Data is fetched successfully from csv file 
+2022-08-02 18:17:31,828 INFO root Convert a data from csv into json format
+2022-08-02 18:17:31,831 INFO root Data Converted into Json format successfully
+2022-08-02 18:17:31,831 INFO root Insert json data into mongo db 
+2022-08-02 18:17:31,831 INFO root Make a connection with MongoDB
+2022-08-02 18:17:33,516 INFO root Connection is successfully established
+2022-08-02 18:17:33,516 INFO root Create a new database here
+2022-08-02 18:17:33,516 INFO root database  created 
+2022-08-02 18:17:33,516 INFO root Create a new collection
+2022-08-02 18:17:33,516 INFO root new collection  created 
+2022-08-02 18:17:33,516 INFO root Insert json data into collection
+2022-08-02 18:17:33,517 INFO root Data not inserted successfully into a collection
+2022-08-02 18:17:33,517 INFO root Second step is to make connection to MySQl database
+2022-08-02 18:17:33,517 INFO root Making a connection with MySql database
+2022-08-02 18:17:33,538 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:17:33,538 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 18:17:33,538 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:17:33,538 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 18:17:33,538 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 18:17:33,538 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 18:17:33,539 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 18:17:33,539 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 18:17:33,540 INFO root Create a table Fitbitdata
+2022-08-02 18:17:33,540 INFO root Creating a new table Fitbitdata
+2022-08-02 18:17:33,547 INFO root table created
+2022-08-02 18:17:33,548 INFO root Select all rows from FitBitdata table
+2022-08-02 18:17:33,548 INFO root Execute the query
+2022-08-02 18:17:33,549 INFO root query Executed successfully
+2022-08-02 18:17:33,549 INFO root select all the rows 
+2022-08-02 18:17:33,549 INFO root All rows being selected
+2022-08-02 18:17:33,549 INFO root Print all the rows
+2022-08-02 18:17:33,549 INFO root all rows are printed
+2022-08-02 18:21:01,189 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 18:21:01,194 INFO root Data is fetched successfully from csv file 
+2022-08-02 18:21:01,194 INFO root Convert a data from csv into json format
+2022-08-02 18:21:01,199 INFO root Data Converted into Json format successfully
+2022-08-02 18:21:01,199 INFO root Insert json data into mongo db 
+2022-08-02 18:21:01,199 INFO root Make a connection with MongoDB
+2022-08-02 18:21:02,505 INFO root Connection is successfully established
+2022-08-02 18:21:02,505 INFO root Create a new database here
+2022-08-02 18:21:02,505 INFO root database  created 
+2022-08-02 18:21:02,505 INFO root Create a new collection
+2022-08-02 18:21:02,505 INFO root new collection  created 
+2022-08-02 18:21:02,505 INFO root Insert json data into collection
+2022-08-02 18:21:02,505 INFO root Data not inserted successfully into a collection
+2022-08-02 18:21:02,505 INFO root Second step is to make connection to MySQl database
+2022-08-02 18:21:02,505 INFO root Making a connection with MySql database
+2022-08-02 18:21:02,530 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:21:02,530 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 18:21:02,530 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 18:21:02,530 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 18:21:02,531 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 18:21:02,531 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 18:21:02,532 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 18:21:02,532 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 18:21:02,533 INFO root Create a table Fitbitdata
+2022-08-02 18:21:02,533 INFO root Creating a new table Fitbitdata
+2022-08-02 18:21:02,540 INFO root table created
+2022-08-02 18:21:02,541 INFO root Select all rows from FitBitdata table
+2022-08-02 18:21:02,541 INFO root Execute the query
+2022-08-02 18:21:02,541 INFO root query Executed successfully
+2022-08-02 18:21:02,542 INFO root select all the rows 
+2022-08-02 18:21:02,542 INFO root All rows being selected
+2022-08-02 18:21:02,542 INFO root Print all the rows
+2022-08-02 18:21:02,542 INFO root all rows are printed
+2022-08-02 20:06:29,230 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 20:06:29,236 INFO root Data is fetched successfully from csv file 
+2022-08-02 20:06:29,236 INFO root Convert a data from csv into json format
+2022-08-02 20:06:29,242 INFO root Data Converted into Json format successfully
+2022-08-02 20:06:29,242 INFO root Insert json data into mongo db 
+2022-08-02 20:06:29,242 INFO root Make a connection with MongoDB
+2022-08-02 20:06:30,189 INFO root Connection is successfully established
+2022-08-02 20:06:30,190 INFO root Create a new database here
+2022-08-02 20:06:30,190 INFO root database  created 
+2022-08-02 20:06:30,190 INFO root Create a new collection
+2022-08-02 20:06:30,190 INFO root new collection  created 
+2022-08-02 20:06:30,190 INFO root Insert json data into collection
+2022-08-02 20:06:30,190 INFO root Data not inserted successfully into a collection
+2022-08-02 20:06:30,190 INFO root Second step is to make connection to MySQl database
+2022-08-02 20:06:30,190 INFO root Making a connection with MySql database
+2022-08-02 20:06:30,217 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:06:30,218 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 20:06:30,218 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:06:30,218 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 20:06:30,218 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 20:06:30,218 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 20:06:30,220 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 20:06:30,220 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 20:06:30,222 INFO root Create a table Fitbitdata
+2022-08-02 20:06:30,222 INFO root Creating a new table Fitbitdata
+2022-08-02 20:06:30,238 INFO root table created
+2022-08-02 20:06:30,239 INFO root Select all rows from FitBitdata table
+2022-08-02 20:06:30,239 INFO root Execute the query
+2022-08-02 20:06:30,239 INFO root query Executed successfully
+2022-08-02 20:06:30,239 INFO root select all the rows 
+2022-08-02 20:06:30,239 INFO root All rows being selected
+2022-08-02 20:06:30,239 INFO root Print all the rows
+2022-08-02 20:06:30,240 INFO root all rows are printed
+2022-08-02 20:07:18,570 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 20:07:18,574 INFO root Data is fetched successfully from csv file 
+2022-08-02 20:07:18,574 INFO root Convert a data from csv into json format
+2022-08-02 20:07:18,578 INFO root Data Converted into Json format successfully
+2022-08-02 20:07:18,578 INFO root Insert json data into mongo db 
+2022-08-02 20:07:18,578 INFO root Make a connection with MongoDB
+2022-08-02 20:07:19,388 INFO root Connection is successfully established
+2022-08-02 20:07:19,388 INFO root Create a new database here
+2022-08-02 20:07:19,388 INFO root database  created 
+2022-08-02 20:07:19,389 INFO root Create a new collection
+2022-08-02 20:07:19,389 INFO root new collection  created 
+2022-08-02 20:07:19,389 INFO root Insert json data into collection
+2022-08-02 20:07:19,389 INFO root Data not inserted successfully into a collection
+2022-08-02 20:07:19,389 INFO root Second step is to make connection to MySQl database
+2022-08-02 20:07:19,389 INFO root Making a connection with MySql database
+2022-08-02 20:07:19,416 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:07:19,416 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 20:07:19,416 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:07:19,416 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 20:07:19,416 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 20:07:19,416 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 20:07:19,417 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 20:07:19,418 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 20:07:19,419 INFO root Create a table Fitbitdata
+2022-08-02 20:07:19,419 INFO root Creating a new table Fitbitdata
+2022-08-02 20:07:19,426 INFO root table created
+2022-08-02 20:07:19,427 INFO root Select all rows from FitBitdata table
+2022-08-02 20:07:19,427 INFO root Execute the query
+2022-08-02 20:07:19,428 INFO root query Executed successfully
+2022-08-02 20:07:19,428 INFO root select all the rows 
+2022-08-02 20:07:19,428 INFO root All rows being selected
+2022-08-02 20:07:19,428 INFO root Print all the rows
+2022-08-02 20:07:19,428 INFO root all rows are printed
+2022-08-02 20:36:50,409 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 20:36:50,416 INFO root Data is fetched successfully from csv file 
+2022-08-02 20:36:50,416 INFO root Convert a data from csv into json format
+2022-08-02 20:36:50,422 INFO root Data Converted into Json format successfully
+2022-08-02 20:36:50,422 INFO root Insert json data into mongo db 
+2022-08-02 20:36:50,422 INFO root Make a connection with MongoDB
+2022-08-02 20:36:51,703 INFO root Connection is successfully established
+2022-08-02 20:36:51,704 INFO root Create a new database here
+2022-08-02 20:36:51,704 INFO root database  created 
+2022-08-02 20:36:51,704 INFO root Create a new collection
+2022-08-02 20:36:51,704 INFO root new collection  created 
+2022-08-02 20:36:51,704 INFO root Insert json data into collection
+2022-08-02 20:36:51,704 INFO root Data not inserted successfully into a collection
+2022-08-02 20:36:51,704 INFO root Second step is to make connection to MySQl database
+2022-08-02 20:36:51,704 INFO root Making a connection with MySql database
+2022-08-02 20:36:51,729 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:36:51,729 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 20:36:51,729 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:36:51,729 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 20:36:51,730 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 20:36:51,730 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 20:36:51,732 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 20:36:51,732 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 20:36:51,734 INFO root Create a table Fitbitdata
+2022-08-02 20:36:51,734 INFO root Creating a new table Fitbitdata
+2022-08-02 20:36:51,742 INFO root table created
+2022-08-02 20:36:51,743 INFO root Select all rows from FitBitdata table
+2022-08-02 20:36:51,743 INFO root Execute the query
+2022-08-02 20:36:51,743 INFO root query Executed successfully
+2022-08-02 20:36:51,744 INFO root select all the rows 
+2022-08-02 20:36:51,744 INFO root All rows being selected
+2022-08-02 20:36:51,744 INFO root Print all the rows
+2022-08-02 20:36:51,744 INFO root all rows are printed
+2022-08-02 20:37:20,088 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-02 20:37:20,091 INFO root Data is fetched successfully from csv file 
+2022-08-02 20:37:20,091 INFO root Convert a data from csv into json format
+2022-08-02 20:37:20,096 INFO root Data Converted into Json format successfully
+2022-08-02 20:37:20,096 INFO root Insert json data into mongo db 
+2022-08-02 20:37:20,096 INFO root Make a connection with MongoDB
+2022-08-02 20:37:21,071 INFO root Connection is successfully established
+2022-08-02 20:37:21,071 INFO root Create a new database here
+2022-08-02 20:37:21,072 INFO root database  created 
+2022-08-02 20:37:21,072 INFO root Create a new collection
+2022-08-02 20:37:21,072 INFO root new collection  created 
+2022-08-02 20:37:21,072 INFO root Insert json data into collection
+2022-08-02 20:37:21,072 INFO root Data not inserted successfully into a collection
+2022-08-02 20:37:21,072 INFO root Second step is to make connection to MySQl database
+2022-08-02 20:37:21,072 INFO root Making a connection with MySql database
+2022-08-02 20:37:21,098 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:37:21,098 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-02 20:37:21,098 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-02 20:37:21,098 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-02 20:37:21,099 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-02 20:37:21,099 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-02 20:37:21,100 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-02 20:37:21,100 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-02 20:37:21,101 INFO root Create a table Fitbitdata
+2022-08-02 20:37:21,101 INFO root Creating a new table Fitbitdata
+2022-08-02 20:37:21,107 INFO root table created
+2022-08-02 20:37:21,108 INFO root Select all rows from FitBitdata table
+2022-08-02 20:37:21,108 INFO root Execute the query
+2022-08-02 20:37:21,109 INFO root query Executed successfully
+2022-08-02 20:37:21,109 INFO root select all the rows 
+2022-08-02 20:37:21,109 INFO root All rows being selected
+2022-08-02 20:37:21,109 INFO root Print all the rows
+2022-08-02 20:37:21,109 INFO root all rows are printed
+2022-08-05 15:08:26,151 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-05 15:08:26,162 INFO root Data is fetched successfully from csv file 
+2022-08-05 15:08:26,162 INFO root Convert a data from csv into json format
+2022-08-05 15:08:26,166 INFO root Data Converted into Json format successfully
+2022-08-05 15:08:26,166 INFO root Insert json data into mongo db 
+2022-08-05 15:08:26,166 INFO root Make a connection with MongoDB
+2022-08-05 15:08:27,209 INFO root Connection is successfully established
+2022-08-05 15:08:27,209 INFO root Create a new database here
+2022-08-05 15:08:27,209 INFO root database  created 
+2022-08-05 15:08:27,209 INFO root Create a new collection
+2022-08-05 15:08:27,209 INFO root new collection  created 
+2022-08-05 15:08:27,210 INFO root Insert json data into collection
+2022-08-05 15:08:27,210 INFO root Data not inserted successfully into a collection
+2022-08-05 15:08:27,210 INFO root Second step is to make connection to MySQl database
+2022-08-05 15:08:27,210 INFO root Making a connection with MySql database
+2022-08-05 15:08:27,237 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:08:27,237 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-05 15:08:27,237 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:08:27,237 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-05 15:08:27,237 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-05 15:08:27,237 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-05 15:08:27,239 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-05 15:08:27,239 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-05 15:08:27,241 INFO root Create a table Fitbitdata
+2022-08-05 15:08:27,241 INFO root Creating a new table Fitbitdata
+2022-08-05 15:08:27,255 INFO root table created
+2022-08-05 15:08:27,257 INFO root Select all rows from FitBitdata table
+2022-08-05 15:08:27,257 INFO root Execute the query
+2022-08-05 15:18:41,226 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-05 15:18:41,233 INFO root Data is fetched successfully from csv file 
+2022-08-05 15:18:41,233 INFO root Convert a data from csv into json format
+2022-08-05 15:18:41,237 INFO root Data Converted into Json format successfully
+2022-08-05 15:18:41,237 INFO root Insert json data into mongo db 
+2022-08-05 15:18:41,237 INFO root Make a connection with MongoDB
+2022-08-05 15:18:42,119 INFO root Connection is successfully established
+2022-08-05 15:18:42,119 INFO root Create a new database here
+2022-08-05 15:18:42,119 INFO root database  created 
+2022-08-05 15:18:42,119 INFO root Create a new collection
+2022-08-05 15:18:42,119 INFO root new collection  created 
+2022-08-05 15:18:42,119 INFO root Insert json data into collection
+2022-08-05 15:18:42,119 INFO root Data not inserted successfully into a collection
+2022-08-05 15:18:42,119 INFO root Second step is to make connection to MySQl database
+2022-08-05 15:18:42,119 INFO root Making a connection with MySql database
+2022-08-05 15:18:42,144 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:18:42,144 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-05 15:18:42,144 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:18:42,144 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-05 15:18:42,144 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-05 15:18:42,144 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-05 15:18:42,145 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-05 15:18:42,145 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-05 15:18:42,146 INFO root Create a table Fitbitdata
+2022-08-05 15:18:42,147 INFO root Creating a new table Fitbitdata
+2022-08-05 15:18:42,159 INFO root table created
+2022-08-05 15:18:42,437 INFO root Data successfully inserted into FitBitdata table
+2022-08-05 15:18:42,437 INFO root Select all rows from FitBitdata table
+2022-08-05 15:18:42,437 INFO root Execute the query
+2022-08-05 15:22:25,282 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-05 15:22:25,288 INFO root Data is fetched successfully from csv file 
+2022-08-05 15:22:25,288 INFO root Convert a data from csv into json format
+2022-08-05 15:22:25,294 INFO root Data Converted into Json format successfully
+2022-08-05 15:22:25,294 INFO root Insert json data into mongo db 
+2022-08-05 15:22:25,294 INFO root Make a connection with MongoDB
+2022-08-05 15:22:26,420 INFO root Connection is successfully established
+2022-08-05 15:22:26,420 INFO root Create a new database here
+2022-08-05 15:22:26,420 INFO root database  created 
+2022-08-05 15:22:26,421 INFO root Create a new collection
+2022-08-05 15:22:26,421 INFO root new collection  created 
+2022-08-05 15:22:26,421 INFO root Insert json data into collection
+2022-08-05 15:22:26,421 INFO root Data not inserted successfully into a collection
+2022-08-05 15:22:26,421 INFO root Second step is to make connection to MySQl database
+2022-08-05 15:22:26,421 INFO root Making a connection with MySql database
+2022-08-05 15:22:26,447 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:22:26,447 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-05 15:22:26,447 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:22:26,447 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-05 15:22:26,448 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-05 15:22:26,448 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-05 15:22:26,450 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-05 15:22:26,451 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-05 15:22:26,452 INFO root Connection is successful
+2022-08-05 15:22:26,452 INFO root Create a table Fitbitdata
+2022-08-05 15:22:26,452 INFO root Creating a new table Fitbitdata
+2022-08-05 15:22:26,453 INFO root Select all rows from FitBitdata table
+2022-08-05 15:22:26,453 INFO root Execute the query
+2022-08-05 15:23:04,146 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-05 15:23:04,150 INFO root Data is fetched successfully from csv file 
+2022-08-05 15:23:04,150 INFO root Convert a data from csv into json format
+2022-08-05 15:23:04,152 INFO root Data Converted into Json format successfully
+2022-08-05 15:23:04,152 INFO root Insert json data into mongo db 
+2022-08-05 15:23:04,152 INFO root Make a connection with MongoDB
+2022-08-05 15:23:05,105 INFO root Connection is successfully established
+2022-08-05 15:23:05,105 INFO root Create a new database here
+2022-08-05 15:23:05,105 INFO root database  created 
+2022-08-05 15:23:05,105 INFO root Create a new collection
+2022-08-05 15:23:05,105 INFO root new collection  created 
+2022-08-05 15:23:05,105 INFO root Insert json data into collection
+2022-08-05 15:23:05,106 INFO root Data not inserted successfully into a collection
+2022-08-05 15:23:05,106 INFO root Second step is to make connection to MySQl database
+2022-08-05 15:23:05,106 INFO root Making a connection with MySql database
+2022-08-05 15:23:05,131 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:23:05,131 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-05 15:23:05,131 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:23:05,131 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-05 15:23:05,131 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-05 15:23:05,131 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-05 15:23:05,132 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-05 15:23:05,132 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-05 15:23:05,133 INFO root Connection is successful
+2022-08-05 15:23:05,133 INFO root Create a table Fitbitdata
+2022-08-05 15:23:05,133 INFO root Creating a new table Fitbitdata
+2022-08-05 15:23:05,141 INFO root table created
+2022-08-05 15:23:05,424 INFO root Data successfully inserted into FitBitdata table
+2022-08-05 15:23:05,424 INFO root Select all rows from FitBitdata table
+2022-08-05 15:23:05,424 INFO root Execute the query
+2022-08-05 15:39:05,913 INFO root First step is to fetch the data from csv using pandas library 
+2022-08-05 15:39:05,918 INFO root Data is fetched successfully from csv file 
+2022-08-05 15:39:05,918 INFO root Convert a data from csv into json format
+2022-08-05 15:39:05,923 INFO root Data Converted into Json format successfully
+2022-08-05 15:39:05,923 INFO root Insert json data into mongo db 
+2022-08-05 15:39:05,923 INFO root Make a connection with MongoDB
+2022-08-05 15:39:07,640 INFO root Connection is successfully established
+2022-08-05 15:39:07,640 INFO root Create a new database here
+2022-08-05 15:39:07,640 INFO root database  created 
+2022-08-05 15:39:07,640 INFO root Create a new collection
+2022-08-05 15:39:07,640 INFO root new collection  created 
+2022-08-05 15:39:07,640 INFO root Insert json data into collection
+2022-08-05 15:39:07,640 INFO root Data not inserted successfully into a collection
+2022-08-05 15:39:07,640 INFO root Second step is to make connection to MySQl database
+2022-08-05 15:39:07,640 INFO root Making a connection with MySql database
+2022-08-05 15:39:07,666 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:39:07,666 DEBUG mysql.connector.connection # _do_auth(): self._auth_plugin: 
+2022-08-05 15:39:07,666 DEBUG mysql.connector.connection # _do_auth(): user: root
+2022-08-05 15:39:07,666 DEBUG mysql.connector.connection # _do_auth(): password: Altitude@11
+2022-08-05 15:39:07,666 INFO mysql.connector.authentication package: mysql.connector.plugins
+2022-08-05 15:39:07,666 INFO mysql.connector.authentication plugin_name: caching_sha2_password
+2022-08-05 15:39:07,668 INFO mysql.connector.authentication AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2022-08-05 15:39:07,668 DEBUG mysql.connector.connection new_auth_plugin: caching_sha2_password
+2022-08-05 15:39:07,669 INFO root Connection is successful
+2022-08-05 15:39:07,669 INFO root Create a table Fitbitdata
+2022-08-05 15:39:07,669 INFO root Creating a new table Fitbitdata
+2022-08-05 15:39:07,677 INFO root table created
+2022-08-05 15:39:07,940 INFO root Data successfully inserted into FitBitdata table
+2022-08-05 15:39:07,940 INFO root Select all rows from FitBitdata table
+2022-08-05 15:39:07,940 INFO root Execute the query
+2022-08-05 15:39:07,941 INFO root query Executed successfully
+2022-08-05 15:39:07,941 INFO root select all the rows 
+2022-08-05 15:39:07,949 INFO root All rows being selected
+2022-08-05 15:39:07,949 INFO root Print all the rows
+2022-08-05 15:39:07,954 INFO root all rows are printed
